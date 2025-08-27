@@ -10,8 +10,12 @@
 
 ### 실행 방법
 
-1. Python 3.8 이상, torch, transformers 설치
-2. `run.py` 실행
+1. Python 3.8 이상 필요
+2. 의존성 패키지 설치
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. `run.py` 실행
    ```bash
    python run.py
    ```
